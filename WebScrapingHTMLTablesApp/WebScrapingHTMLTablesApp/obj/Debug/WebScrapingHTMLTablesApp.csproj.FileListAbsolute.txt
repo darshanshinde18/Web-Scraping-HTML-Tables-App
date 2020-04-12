@@ -1,0 +1,12 @@
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\bin\Debug\WebScrapingHTMLTablesApp.exe.config
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\bin\Debug\WebScrapingHTMLTablesApp.exe
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\bin\Debug\WebScrapingHTMLTablesApp.pdb
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\bin\Debug\HtmlAgilityPack.dll
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\bin\Debug\HtmlAgilityPack.pdb
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\bin\Debug\HtmlAgilityPack.xml
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\obj\Debug\WebScrapingHTMLTablesApp.csprojResolveAssemblyReference.cache
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\obj\Debug\WebScrapingHTMLTablesApp.frmMain.resources
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\obj\Debug\WebScrapingHTMLTablesApp.Properties.Resources.resources
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\obj\Debug\WebScrapingHTMLTablesApp.csproj.GenerateResource.Cache
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\obj\Debug\WebScrapingHTMLTablesApp.exe
+D:\DARSHAN\Projects\GitPublicRepo\WebScrapingHTMLTablesApp\WebScrapingHTMLTablesApp\obj\Debug\WebScrapingHTMLTablesApp.pdb
